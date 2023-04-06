@@ -1,4 +1,4 @@
-![alt text](https://github.com/devoups-off/pathfinder-app/blob/master/public/screen.png?raw=true)
+![alt text](https://github.com/devoups-off/pathfinder-app/blob/master/public/screen.PNG?raw=true)
 
 # Getting Started with Create React App
 
